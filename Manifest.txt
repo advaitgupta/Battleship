@@ -1,0 +1,2 @@
+main-class: battleship_gui
+
